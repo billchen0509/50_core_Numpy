@@ -1,2 +1,2 @@
-# 50_core_Numpy
+# 50_core_function_Numpy
  50 core functions of Numpy
